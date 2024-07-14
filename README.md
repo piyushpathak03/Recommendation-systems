@@ -1,7 +1,7 @@
 # Recommendation-systems
 Recommendation Systems This is a workshop on using Machine Learning and Deep Learning Techniques to build Recommendation Systesm  
 
-**Theory:** ML &amp; DL Formulation, Prediction vs. Ranking, Similiarity, Biased vs. Unbiased 
+**Theory:** ML &amp; DL Formulation, Prediction vs. Ranking, Similarity, Biased vs. Unbiased 
 
 **Paradigms:** Content-based, Collaborative filtering, Knowledge-based, Hybrid and Ensembles 
 
@@ -13,36 +13,33 @@ Recommendation Systems This is a workshop on using Machine Learning and Deep Lea
 
 **Process:** Setup, Encode &amp; Embed, Design, Train &amp; Select, Serve &amp; Scale, Measure, Test &amp; Improve 
 
-**Tools:** python-data-stack: numpy, pandas, scikit-learn, keras, spacy, implicit, lightfm 
+**Tools:** python-data-stack: numpy, pandas, sci-kit-learn, keras, spacy, implicit, lightfm 
 
 # Python Libraries 
-Deep Recommender Libraries  
-1.Tensorrec - Built on Tensorflow 
-2.Spotlight - Built on PyTorch 
-3.TFranking - Built on TensorFlow (Learning to Rank) 
-Matrix Factorisation Based Libraries  
-1.Implicit - Implicit Matrix Factorisation 
-2.QMF - Implicit Matrix Factorisation 
-3.Lightfm - For Hybrid Recommedations 
-4.Surprise - Scikit-learn type api for traditional alogrithms 
 
-Similarity Search Libraries  
-1.Annoy - Approximate Nearest Neighbour 
-2.NMSLib - kNN methods 
-3.FAISS - Similarity search and clustering 
+## Deep Recommender Libraries  
+1. Tensorrec - Built on Tensorflow 
+2. Spotlight - Built on PyTorch 
+3. TFranking - Built on TensorFlow (Learning to Rank)
+   
+## Matrix Factorisation-Based Libraries  
+1. Implicit - Implicit Matrix Factorisation 
+2. QMF - Implicit Matrix Factorisation 
+3. Lightfm - For Hybrid Recommendations 
+4. Surprise - Scikit-learn type api for traditional algorithms 
 
-# Algorithms &amp; 
-Approaches Collaborative Filtering for Implicit Feedback Datasets 
+## Similarity Search Libraries  
+1. Annoy - Approximate Nearest Neighbour 
+2. NMSLib - kNN methods 
+3. FAISS - Similarity search and clustering 
 
-Bayesian Personalised Ranking for Implicit Data 
-
-Logistic Matrix Factorisation 
-
-Neural Network Matrix Factorisation 
-
-Neural Collaborative Filtering 
-
-Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems
+## Algorithms &amp; Approaches
+1. Collaborative Filtering for Implicit Feedback Datasets
+2. Bayesian Personalised Ranking for Implicit Data
+3. Logistic Matrix Factorisation
+4. Neural Network Matrix Factorisation
+5. Neural Collaborative Filtering
+6. Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems
 
 ## About me
 
@@ -55,7 +52,7 @@ Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Reco
 [**BLOG**](https://medium.com/@piyushpathak03)
 
 
-# 📫 Follw me: 
+# 📫 Follow me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
 
